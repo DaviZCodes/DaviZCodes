@@ -1,7 +1,7 @@
 <h1 align="center">hello, I'm Davi</h1>
 <h3 align="center">A brazilian software engineer based in NYC</h3>
 
-- 🛸 I’m currently working on **My personal website**
+- 🛸 I’m currently working on **my personal parallax website**
 
 - 🌱 I’m currently learning about **SQL databases**
 
