@@ -3,8 +3,6 @@
 
 - 🛸 I’m currently working on **my personal parallax website**
 
-- 🌱 I’m currently learning about **SQL databases**
-
 - 😹 Fun fact **I make YouTube videos!**
 
 <h3 align="left">Connect with me:</h3>
