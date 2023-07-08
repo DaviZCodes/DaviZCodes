@@ -3,7 +3,7 @@
 
 - 🛸 I’m currently working on **My personal website**
 
-- 🌱 I’m currently learning **SQL databases**
+- 🌱 I’m currently learning about **SQL databases**
 
 - 😹 Fun fact **I make YouTube videos!**
 
