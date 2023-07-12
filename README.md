@@ -60,8 +60,8 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+<a href="https://vercel.com" target="_blank" rel="noreferrer">
+  <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" alt="vercel" width="40" height="40"/>
 </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
