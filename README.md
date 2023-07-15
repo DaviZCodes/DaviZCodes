@@ -4,9 +4,9 @@
 
 - 😹 Fun fact **I make YouTube videos!**
 
-<p align="left">
- 📧 davizbot3@gmail.com
-</p>
+ - 📧 davizbot3@gmail.com
+
+   
 
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
