@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  davizbot3@gmail.com
+ 📧 davizbot3@gmail.com
 </p>
 
 <h3 align="left">Technical skills:</h3>
