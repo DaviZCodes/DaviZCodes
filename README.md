@@ -1,16 +1,13 @@
 <h1 align="center">hello, I'm Davi</h1>
-<h3 align="center">A brazilian software engineer based in NYC</h3>
 
 - 🛸 I’m currently working on **my personal parallax website**
 
 - 😹 Fun fact **I make YouTube videos!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
  📧 davizbot3@gmail.com
 </p>
 
-<h3 align="left">Technical skills:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
