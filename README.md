@@ -68,4 +68,4 @@
 </a>
 
 - What I like to see:
-  (https://i.imgur.com/3HKarFQ.png)
+  [Performance](https://i.imgur.com/3HKarFQ.png)
