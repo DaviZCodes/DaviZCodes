@@ -67,4 +67,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </a>
 
-</p>
+- What I like to see:
+  (https://i.imgur.com/3HKarFQ.png)
