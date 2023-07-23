@@ -1,4 +1,4 @@
-- hello, I'm Davi
+- 👋 hello, I'm Davi
 
 - 🛸 I’m currently working on **my personal website**
 
