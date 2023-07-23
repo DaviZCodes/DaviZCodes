@@ -1,4 +1,4 @@
-<h1 align="center">hello, I'm Davi</h1>
+- hello, I'm Davi
 
 - 🛸 I’m currently working on **my personal website**
 
