@@ -1,6 +1,6 @@
 <h1 align="center">hello, I'm Davi</h1>
 
-- 🛸 I’m currently working on **my personal parallax website**
+- 🛸 I’m currently working on **my personal website**
 
 - 😹 Fun fact **I make YouTube videos!**
 
