@@ -4,7 +4,7 @@
 
 - 😹 Fun fact **I make YouTube videos!**
 
- - 📧 davizhengwork@gmail.com
+ - 📧 daviz.contactme@gmail.com
 
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
